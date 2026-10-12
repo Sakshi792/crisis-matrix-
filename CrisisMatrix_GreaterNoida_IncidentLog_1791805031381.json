@@ -1,0 +1,122 @@
+[
+  {
+    "id": "SOS-104",
+    "nodeId": "kp3",
+    "category": "MEDICAL",
+    "urgency": "CRITICAL",
+    "location": "Knowledge Park III (Girls Hostel)",
+    "landmark": "Near GL Bajaj / Sharda Road",
+    "coords": {
+      "x": 300,
+      "y": 600
+    },
+    "text": "Water level rose 4ft on ground floor. 28 students stranded, 1 requires urgent asthma nebulizer treatment.",
+    "time": "3m ago",
+    "needs": [
+      "Inflatable Boat",
+      "Medical Oxygen"
+    ],
+    "status": "RESOLVED",
+    "people": 28
+  },
+  {
+    "id": "SOS-108",
+    "nodeId": "surajpur_wetland",
+    "category": "EVACUATION",
+    "urgency": "CRITICAL",
+    "location": "Surajpur Wetland Edge (Gulavali Village)",
+    "landmark": "Behind Police Lines",
+    "coords": {
+      "x": 340,
+      "y": 160
+    },
+    "text": "Hindon water backflowing into houses. Elderly family with 3 children trapped on terrace.",
+    "time": "8m ago",
+    "needs": [
+      "Evacuation Boat",
+      "Drinking Water"
+    ],
+    "status": "RESOLVED",
+    "people": 5
+  },
+  {
+    "id": "SOS-112",
+    "nodeId": "pari_chowk",
+    "category": "HAZARD",
+    "urgency": "HIGH",
+    "location": "Pari Chowk Subway Underpass",
+    "landmark": "Central Rotary Underpass",
+    "coords": {
+      "x": 500,
+      "y": 380
+    },
+    "text": "Subway completely inundated. 2 passenger buses stalled in 5ft deep water, passengers on roofs.",
+    "time": "14m ago",
+    "needs": [
+      "Dewatering Pump",
+      "Rescue Team"
+    ],
+    "status": "PENDING",
+    "people": 42
+  },
+  {
+    "id": "SOS-115",
+    "nodeId": "alpha_sec",
+    "category": "FOOD/RELIEF",
+    "urgency": "MEDIUM",
+    "location": "Alpha 1 Commercial Complex",
+    "landmark": "Behind Alpha Metro Station",
+    "coords": {
+      "x": 620,
+      "y": 220
+    },
+    "text": "Power grid disconnected for 18 hours. 40 migrant laborers need drinking water and dry rations.",
+    "time": "25m ago",
+    "needs": [
+      "Dry Rations",
+      "Drinking Water"
+    ],
+    "status": "PENDING",
+    "people": 40
+  },
+  {
+    "id": "SOS-121",
+    "nodeId": "ecotech_ind",
+    "category": "EVACUATION",
+    "urgency": "HIGH",
+    "location": "Ecotech Udyog Vihar Warehouse",
+    "landmark": "Kasna Industrial Belt",
+    "coords": {
+      "x": 180,
+      "y": 260
+    },
+    "text": "Chemical warehouse boundary wall damaged by flood currents. 8 security guards need boat extraction.",
+    "time": "31m ago",
+    "needs": [
+      "NDRF Boat",
+      "Hazard Suit"
+    ],
+    "status": "PENDING",
+    "people": 8
+  },
+  {
+    "id": "SOS-126",
+    "nodeId": "gbu_campus",
+    "category": "MEDICAL",
+    "urgency": "HIGH",
+    "location": "GBU Campus Emergency Shelter",
+    "landmark": "Hostel Block C",
+    "coords": {
+      "x": 730,
+      "y": 620
+    },
+    "text": "Relief camp accommodating 120 evacuees. Running short of IV fluids and antibiotics.",
+    "time": "42m ago",
+    "needs": [
+      "Medical Kit",
+      "Insulin"
+    ],
+    "status": "PENDING",
+    "people": 120
+  }
+]
